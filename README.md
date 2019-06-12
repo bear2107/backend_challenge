@@ -1,19 +1,5 @@
 # Backend Coding Challenges
  
-Following are the good project links which i found:
-
-<li>https://github.com/kahdo/unbabel-backend-coding-challenge  
-
-
-<li>https://www.topcoder.com/challenges/30088724</li>
-
-<li>https://www.topcoder.com/challenges/30088724</li>
-
-
-
-
-
-
 
 ## 1. Design an API endpoint that provides auto-complete suggestions for large cities:
 - https://github.com/busbud/coding-challenge-backend-c
@@ -29,4 +15,11 @@ Following are the good project links which i found:
 
 Note: Lots of solution available on blogs and github.
 
-##
+## 4. Create a multilingual clone of the Hackernews website
+
+- https://github.com/kahdo/unbabel-backend-coding-challenge  
+
+
+## 5. Topcoder Challenges
+- https://www.topcoder.com/challenges/30088724
+- https://www.topcoder.com/challenges/30088724
